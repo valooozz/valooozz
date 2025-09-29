@@ -34,7 +34,7 @@ J'ai réalisé ce site pour me former plus en profondeur à ces deux technologie
 ### 🐍 [An-Bot](https://github.com/valooozz/an-bot)
 
 IA déterministe capable de jouer à un jeu de Nim (à prise continue).
-Elle bat la plupart de mes proches sur le jeu.
+Elle bat mes proches sur le jeu.
 
 ### 🏁 [Pixel War](https://github.com/valooozz/utc-sr05-pixel-war)
 
