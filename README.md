@@ -21,6 +21,11 @@ Passionné d'informatique depuis le collège, je suis particulièrement intéres
 Application mobile de flashcards (cartes de mémorisation) réalisée en React Native.
 Je l'utilise tous les jours pour mes apprentissages, et quelques amis à moi l'utilisent également.
 
+### 📖 [stats-piece](https://github.com/valooozz/stats-piece)
+
+Application python en ligne de commande pour obtenir des statistiques sur le texte d'une pièce de théâtre et pour organiser la mise en scène.
+Je l'utilise régulièrement pour m'aider dans l'écriture de pièces et l'ai déjà utilisée pour organiser une mise en scène.
+
 ### 📖 [txt2odt](https://github.com/valooozz/txt2odt)
 
 Application python pour convertir un fichier TXT de roman ou de pièce de théâtre en fichier ODT.
@@ -39,4 +44,4 @@ Elle bat mes proches sur le jeu.
 ### 🏁 [Pixel War](https://github.com/valooozz/utc-sr05-pixel-war)
 
 Projet étudiant réalisé en groupe, reprenant le principe de *r/place*.
-Cette application est développée en Go, et utilise des algorithmes de systèmes distribués.
+Cette application est développée en Go, et utilise des algorithmes de systèmes répartis.
