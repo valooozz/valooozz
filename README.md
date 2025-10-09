@@ -16,7 +16,7 @@ Passionné d'informatique depuis le collège, je suis particulièrement intéres
 
 ## 📂 Mes projets publics
 
-### ⚡ [Flashcards](https://github.com/valooozz/flashcards)
+### ⚡ [Flipo](https://github.com/valooozz/flipo)
 
 Application mobile de flashcards (cartes de mémorisation) réalisée en React Native.
 Je l'utilise tous les jours pour mes apprentissages, et quelques amis à moi l'utilisent également.
