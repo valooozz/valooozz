@@ -26,6 +26,11 @@ Je l'utilise tous les jours pour mes apprentissages, et quelques amis à moi l'u
 Application python en ligne de commande pour obtenir des statistiques sur le texte d'une pièce de théâtre et pour organiser la mise en scène.
 Je l'utilise régulièrement pour m'aider dans l'écriture de pièces et l'ai déjà utilisée pour organiser une mise en scène.
 
+### 📦 [Werizit](https://github.com/valooozz/werizit)
+
+Application mobile de gestion de rangement réalisée en Flutter.
+Je l'utilise pour organiser mes espaces de rangement chez moi.
+
 ### 📖 [txt2odt](https://github.com/valooozz/txt2odt)
 
 Application python pour convertir un fichier TXT de roman ou de pièce de théâtre en fichier ODT.
