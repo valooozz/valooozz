@@ -21,6 +21,11 @@ Passionné d'informatique depuis le collège, je suis particulièrement intéres
 Application mobile de flashcards (cartes de mémorisation) réalisée en React Native.
 Je l'utilise tous les jours pour mes apprentissages, et quelques amis à moi l'utilisent également.
 
+### 🏅 [Kalis](https://github.com/valooozz/kalis)
+
+Application mobile de suivi et d'organisation de séances de callisthénie, réalisée avec Flutter.
+Je l'utilise tous les jours pour organiser mes séances de sport et suivre mon avancement dans les figures que j'apprends.
+
 ### ✒️ [stats-piece](https://github.com/valooozz/stats-piece)
 
 Application python en ligne de commande pour obtenir des statistiques sur le texte d'une pièce de théâtre et pour organiser la mise en scène.
